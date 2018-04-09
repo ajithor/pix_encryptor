@@ -7,8 +7,8 @@ The code can be modified to keep the public key as an 'Arbitrary Constant' value
 Prequisites
 ---
 Python 3.x.(obviously)(preferably with pip ( pip within conda if any clashes of versions or the way  like for Deep-Learning)).
-numpy (#pip install numpy)
-imageio(# pip install imageio)
+numpy (#pip install numpy).
+imageio(# pip install imageio).
 Simply google if any confusion(Prefer DuckDuckGo, if any privacy concerns).
 
 
